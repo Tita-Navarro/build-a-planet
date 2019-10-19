@@ -1,0 +1,23 @@
+{
+  "name": "build-a-planet",
+  "version": "1.0.0",
+  "description": "Challenge for Nasa Space Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tita-Navarro/build-a-planet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tita-Navarro/build-a-planet/issues"
+  },
+  "homepage": "https://github.com/Tita-Navarro/build-a-planet#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
